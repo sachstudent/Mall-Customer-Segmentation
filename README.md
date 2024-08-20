@@ -27,4 +27,3 @@ The final clusters represent different customer segments, each with unique spend
 
 - **Mall Customer Segmentation.ipynb:** The Jupyter notebook containing the full analysis, from data loading and preprocessing to clustering and interpretation of results.
 - **Mall Customers Data:** Link to the dataset used for this project.
-- **Video Presentation:** Link to a video presentation summarizing the problem, approach, and results.
